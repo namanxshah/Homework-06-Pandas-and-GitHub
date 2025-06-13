@@ -1,6 +1,5 @@
 # Homework 06 Pandas and GitHub
 
-Sumission for Lede 2025
+## Sumission for <ins>Lede 2025</ins>
 
-01-Animals is completed
-02-Billionaires is incomplete. I shall complete it and update it after having a better understanding of Pandas.
+Understanding Pandas is only marginally easier than understanding lists of dictionaries. I tried to figure out things using tab autocomplete, but had to ultimately resort to ChatGPT and TAs to finish the more difficult questions.
